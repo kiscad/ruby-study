@@ -131,3 +131,8 @@ print_two_args("hello", "ruby")
 print_none # 没有参数，在调用时可以省略 `()`
 ```
 
+#### 27 - Memorizing Logic
+
+- 真值常量：`true`, `false`
+- 逻辑运算符：`&&` and, `||` or, `!` not
+- 比较运算符：`!=`, `==`, `>=`, `<=`
